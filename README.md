@@ -5,11 +5,11 @@ Require "Sign Up" and "API Key"
 
 Weather Py
 Openweather app
-url = "http://api.openweathermap.org/data/2.5/weather?"
+url = "https://openweathermap.org/api"
 
 Vacation PY
 GeoApify
-base_url = "https://api.geoapify.com/v2/places"
+base_url = "https://geoapify.com"
 
 Create Plots to Showcase the Relationship Between Weather Variables and Latitude 
 Use the OpenWeatherMap API to retrieve weather data from the cities list generated in the started code 
